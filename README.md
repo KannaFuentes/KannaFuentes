@@ -38,9 +38,8 @@
 
 📫 **¿Quieres contactarme?**
 
-- 💌 ana.tuemail@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🌐 [Portafolio Web (si tienes uno)](https://tusitio.com)
+- 💌 kfuentesrmx@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/anak-fuentesr)
 
 ---
 

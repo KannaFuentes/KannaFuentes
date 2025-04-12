@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Tableau-eec9d2?style=for-the-badge&logo=tableau&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jira-fdcfe8?style=for-the-badge&logo=jira&logoColor=black"/>
 </p>
+ **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+ **Pruebas QA:** Pruebas funcionales, regresión, reporte de defectos
 
 ---
 
@@ -27,13 +29,25 @@
 
 ---
 
+📚 **Proyectos Destacados**
+
+🔹 **Análisis de Ventas de Videojuegos**
+> Limpieza de datos, EDA, visualización con Matplotlib y Seaborn, pruebas de hipótesis sobre plataformas y géneros.
+
+🔹 **Zuber - Análisis de Viajes Compartidos en Chicago**
+> Agrupación y análisis de viajes por compañía, condiciones meteorológicas y pruebas estadísticas para analizar duraciones de viajes.
+
+[➡ Ver todos mis proyectos en este repositorio](https://github.com/tu-usuario?tab=repositories)
+
+---
+
 ### 📫 ¿Dónde encontrarme?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu_usuario/">
+  <a href="https://www.linkedin.com/in/anak-fuentesr/">
     <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:kfuentesrmx@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

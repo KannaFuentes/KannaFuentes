@@ -1,14 +1,22 @@
-
+<p align="center">
+  <img src="https://github.com/KannaFuentes/KannaFuentes/blob/main/banner.png" alt="banner" width="100%" />
+</p>
 <div align="center">
   <h1 style="color:#ffb6c1; font-family: 'Comic Sans MS', cursive; animation: floatText 2s ease-in-out infinite;">
     Hola, soy Ana Fuentes 💻✨
   </h1>
-  <img src="https://github.com/KannaFuentes/KannaFuentes/blob/main/banner.png" alt="banner" width="100%" />
   <p style="color:#d48fb6; font-size: 18px; max-width: 700px; margin: 0 auto;">
     Apasionada por los datos y el aprendizaje continuo. Manejo herramientas como <b>SQL</b>, <b>Python</b> y <b>Tableau</b> para contar historias con datos 📊. 
     Mi background en pruebas de software me ha dado una mente analítica, mucha paciencia y ojo clínico para los detalles 👀.
   </p>
 </div>
+
+<style>
+@keyframes floatText {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+</style>
 
 <style>
 @keyframes floatText {

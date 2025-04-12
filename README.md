@@ -18,12 +18,12 @@
 
 ---
 
-### 📌 Sobre mí
+🎯 **Sobre mí**
 
-💡 Disfruto resolver problemas reales usando datos.  
-🎓 Recientemente completé un bootcamp en TripleTen.  
-📚 Me encantan las matemáticas, la estadística y la visualización.  
-💪 Autodidacta, creativa y con visión crítica.
+- 💻 Apasionada por el análisis de datos y la calidad del software.
+- 🧠 Me encanta aprender nuevas tecnologías y resolver problemas con datos.
+- 📊 Transicionando al mundo del Data Analysis con proyectos prácticos en Python, SQL y Tableau.
+- 🤝 Buscando una oportunidad para crecer profesionalmente en el análisis de datos.
 
 ---
 

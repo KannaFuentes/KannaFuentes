@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://github.com/KannaFuentes/KannaFuentes/blob/main/banner.png" alt="banner" width="100%" />
-</p>
+
 <div align="center">
   <h1>✨ Hola, Soy Ana Fuentes ✨</h1>
+  <p align="center">
+  <img src="https://github.com/KannaFuentes/KannaFuentes/blob/main/banner.png" alt="banner" width="100%" />
+</p>
   <h3>Analista de Datos en formación | Ingeniera de Pruebas QA | Autodidacta y creativa</h3>
 </div>
 

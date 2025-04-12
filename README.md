@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Tableau-eec9d2?style=for-the-badge&logo=tableau&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jira-fdcfe8?style=for-the-badge&logo=jira&logoColor=black"/>
 </p>
- **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
- **Pruebas QA:** Pruebas funcionales, regresión, reporte de defectos
+- **Librerías:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Pruebas QA:** Pruebas funcionales, regresión, reporte de defectos
 
 ---
 

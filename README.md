@@ -47,8 +47,6 @@
 🔹 **Zuber - Análisis de Viajes Compartidos en Chicago**
 > Agrupación y análisis de viajes por compañía, condiciones meteorológicas y pruebas estadísticas para analizar duraciones de viajes.
 
-[➡ Ver todos mis proyectos en este repositorio](https://github.com/tu-usuario?tab=repositories)
-
 ---
 
 ### 📫 ¿Dónde encontrarme?
